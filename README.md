@@ -1,0 +1,1 @@
+# plugins-quick-edit-yoastseo
